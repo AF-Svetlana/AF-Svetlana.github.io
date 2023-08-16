@@ -204,7 +204,7 @@ section{
 	display: flex;
 }
 .image-section img{
-	width: 500px;
+	width: 400px;
 	animation: Zoom 1s ease forwards, Float 4s ease-in-out infinite;
 	animation-delay: 1s,2s;
 	opacity: 0;
