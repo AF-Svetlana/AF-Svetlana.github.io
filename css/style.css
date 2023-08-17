@@ -78,7 +78,7 @@ body{
 	}
 }
 .navbar a:hover{
-	color: #f9c206;
+	color: #5CD3C4;
 }
 .home{
 	display: flex;
@@ -102,7 +102,7 @@ section{
 }
 .text-section h3{
 	font-size: 30px;
-	color: #f9c206;
+	color: #5CD3C4;
 	animation: SlideRight 1s ease forwards;
 	opacity: 0;
 	filter: blur(5px);
@@ -140,7 +140,7 @@ section{
 .btn-box a{
 	display: flex;
 	color: #2c2c2c;
-	background: #f9c206;
+	background: #5CD3C4;
 	height: 100%;
 	width: 150px;
 	display: flex;
@@ -152,7 +152,7 @@ section{
 	letter-spacing: 1px;
 	border-radius: 20px;
 	margin-top: 20px;
-	border: 2px solid #f9c206;
+	border: 2px solid #5CD3C4;
 	transition: .3s;
 }
 .btn-box a::before{
@@ -170,7 +170,7 @@ section{
 	}
 }
 .btn-box a:hover{
-	color: #f9c206;
+	color: #5CD3C4;
 	background: #2c2c2c;
 }
 .social-media{
@@ -189,8 +189,8 @@ section{
 }
 .social-media i{
 	padding: 10px 10px;
-	background: #f9c206;
-	border: 2px solid #f9c206;
+	background: #5CD3C4;
+	border: 2px solid #5CD3C4;
 	margin-top: 10px;
 	border-top-right-radius: 10px;
 	border-bottom-right-radius: 10px;
@@ -198,7 +198,7 @@ section{
 }
 .social-media i:hover{
 	background: #2c2c2c;
-	color: #f9c206;
+	color: #5CD3C4;
 }
 .image-section{
 	display: flex;
